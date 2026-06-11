@@ -8,6 +8,8 @@ A small software-and-homelab org. We build practical software — dashboards, co
 |---|---|
 | [tms](https://github.com/bogocat/tms) | Tmux session manager + GitHub-issue agent dispatch. Browse sessions with `tms`, dispatch an agent on an issue with `tmq <repo> <issue>`. Small, dependency-light. |
 | [FrameCache](https://github.com/bogocat/framecache) | Offline-first Android photo frame for [Immich](https://immich.app). Caches photos locally so WiFi drops are invisible. |
+|[jellyfin-3ds](https://github.com/bogocat/jellyfin-3ds) | The first native Jellyfin client for Nintendo 3DS |
+
 
 ## What we work on
 
